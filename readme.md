@@ -4,8 +4,8 @@
 <h1 align="center">Hi 👋, I'm Sara Caredda</h1>
 A passionate web development learner from Italy.
 
-# Personal portfolio
-This is a website that I generated in order to showcase my projects. Please contact me at https://github.com/dvsara/ if you have any feedback or ideas for the website. If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Leave a ⭐  if you like it!
+# Header animation
+This is a website section that I generated in order to showcase my skills. Please contact me at https://github.com/dvsara/ if you have any feedback or ideas for this project. If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Leave a ⭐  if you like it!
 
 ## Description
 
@@ -15,8 +15,7 @@ Quick rundown of what's being used:
     CSS3
     Javascript
     Bootstrap
-    Adobe Illustrator 
-    PHP
+    Adobe Illustrator  
 
 ## License
 
