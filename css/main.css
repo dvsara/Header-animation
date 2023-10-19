@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+/*welcome text svg*/
+
+@import "compass";
+.header {
+    background: #fed75a;
+    overflow: hidden;
+    height: 90vh;
+}
+
+figure {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+svg {
+    padding: 5vw;
+    width: 85vw;
+}
+
+svg>* {
+    fill: rgb(20, 19, 19);
+    stroke: rgb(20, 19, 19);
+    stroke-width: 0.85px;
+}
+
+
+/* hover tip */
+
+.header:hover:after {
+    content: "Hover to Slow Motion";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 1vh;
+    color: rgb(20, 19, 19);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font: 800 20px/14px Tahoma, sans-serif;
+    @include animation(tip 2.5s forwards);
+}
+
+@include keyframes(tip) {
+    0%,
+    100% {
+        opacity: 0;
+    }
+    10%,
+    80% {
+        opacity: 1;
+    }
+}
