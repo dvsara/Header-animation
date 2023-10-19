@@ -5,7 +5,7 @@
 A passionate web development learner from Italy.
 
 # Header animation
-This is a website section that I generated in order to showcase my skills. Please contact me at https://github.com/dvsara/ if you have any feedback or ideas for this project. If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Leave a ⭐  if you like it!
+Please contact me at https://github.com/dvsara/ if you have any feedback or ideas for this project. If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Leave a ⭐  if you like it!
 
 ## Description
 
